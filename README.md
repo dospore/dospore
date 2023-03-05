@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there 👋
+
+#### A Full-Stack Developer at heart
+
+Previously a Full-Stack Developer at [Mycelium](https://mycelium.xyz);<br>
+Ethereum Validator running [lighthouse](https://github.com/sigp/lighthouse) and [nethermind](https://nethermind.io/);<br>
+Currently reading [Quantum: A Guide For The Perplexed](https://www.goodreads.com/en/book/show/100034) personally a fan of De Broglie–Bohm's interpretation;<br>
 
 <!--
-**dospore/dospore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
+- 
+- 🌱 **Open Source** maxi
+- 🌱 Learning **Rust**
+- 📕 I like reading non-fiction science (mostly biology or physics)
+- 💬 Message me about **blockchains**, **anonymity**, **development**, **surfing** on [twitter.com/dospore](https://twitter.com/_dospore)
+- 🎮 I play league on Tuesdays with my friends
+- ⚡️ Fun fact: I lived in a van whilst working full time
 -->

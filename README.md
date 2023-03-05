@@ -12,4 +12,5 @@ Currently reading [Quantum: A Guide For The Perplexed](https://www.goodreads.com
 - 📕 I like reading non-fiction science (mostly biology or physics)
 - 💬 Message me about **blockchains**, **anonymity**, **development**, **surfing**, **breakfast** on [twitter.com/dospore](https://twitter.com/_dospore)
 - 🎮 I play League of Legends on Tuesdays with my friends
+- Play me in chess [chess.com](https://www.chess.com/member/dospore) or [lichess](https://lichess.org/@/DeDossBoss)
 - ⚡️ Fun fact: I lived in a van whilst working full time

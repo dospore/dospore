@@ -9,7 +9,7 @@ Currently reading [Quantum: A Guide For The Perplexed](https://www.goodreads.com
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
 - 💦 **Open Source** maxi
 - 🌱 Learning **Rust**
-- 📕 I like reading non-fiction science (mostly biology or physics)
+- 📕 I like reading non-fiction (mostly biology or history) or science fiction
 - 💬 Message me about **blockchains**, **anonymity**, **development**, **surfing**, **breakfast** on [twitter.com/dospore](https://twitter.com/_dospore)
 - 🎮 I play League of Legends on Tuesdays with my friends
 - 🎲 Play me in chess [chess.com](https://www.chess.com/member/dospore) or [lichess](https://lichess.org/@/DeDossBoss)

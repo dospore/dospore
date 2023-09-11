@@ -4,7 +4,6 @@
 
 Previously a Full-Stack Developer at [Mycelium](https://mycelium.xyz);<br>
 Ethereum Validator running [lighthouse](https://github.com/sigp/lighthouse) and [nethermind](https://nethermind.io/);<br>
-Currently reading [Quantum: A Guide For The Perplexed](https://www.goodreads.com/en/book/show/100034) personally a fan of De Broglie–Bohm's interpretation;<br>
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
 - 💦 **Open Source** maxi

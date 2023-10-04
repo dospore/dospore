@@ -8,8 +8,10 @@ Ethereum Validator running [lighthouse](https://github.com/sigp/lighthouse) and 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
 - 💦 **Open Source** maxi
 - 🌱 Learning **Rust**
+- :loop: I practice on [hackerrank](https://www.hackerrank.com/dospore) and [leetcode](https://leetcode.com/dospore/)
+- :globe_with_meridians: Living in Madrid y Estoy aprendiendo español
 - 📕 I like reading non-fiction (mostly biology or history) or science fiction
 - 💬 Message me about **blockchains**, **anonymity**, **development**, **surfing**, **breakfast** on [twitter.com/dospore](https://twitter.com/_dospore)
 - 🎮 I play League of Legends on Tuesdays with my friends
 - 🎲 Play me in chess [chess.com](https://www.chess.com/member/dospore) or [lichess](https://lichess.org/@/DeDossBoss)
-- ⚡️ Fun fact: I lived in a van whilst working full time
+- ⚡️ Fun fact: I bummed it in a van whilst working full time

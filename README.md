@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello 👋
 
 #### A Full-Stack Developer at heart
 
@@ -14,4 +14,3 @@ Ethereum Validator running [lighthouse](https://github.com/sigp/lighthouse) and 
 - 💬 Message me about **blockchains**, **anonymity**, **development**, **surfing**, **breakfast** on [twitter.com/dospore](https://twitter.com/_dospore)
 - 🎮 I play League of Legends on Tuesdays with my friends
 - 🎲 Play me in chess [chess.com](https://www.chess.com/member/dospore) or [lichess](https://lichess.org/@/DeDossBoss)
-- ⚡️ Fun fact: I bummed it in a van whilst working full time
